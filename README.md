@@ -1,4 +1,4 @@
-# titanic-subamariners
+# titanic-submariners
 This repository belongs to Team 4 of the Advanced AI for Data Science class.
 
 **Files:**

@@ -8,7 +8,7 @@ Part I
 
 
 Part II
-* E4_Titanic_ClassificationModels.ipynb: Contains detailed description of the implementation of Machine Learning models to predict whether a passeneger with specific characteristics survived the Titanic incident. Models included are KNN, Random Forest, Logistic Regression, and Support Vector Machine. Requires train.csv and test.csv
+* E4_Titanic_ClassificationModels.ipynb: Contains detailed description of the implementation of Machine Learning models to predict whether a passeneger with specific characteristics survived the Titanic incident. Models included are KNN, Random Forest, Logistic Regression, and Support Vector Machine. Requires data4training.csv and test.csv
 
 FINAL
 * Report_TitanicAnalysis: Final summary of findings and insights retrieved from analysis of the data during Part I of the project. Report of results obtained of the implemented ML models and tuning of hyperparameters for chosen model.
